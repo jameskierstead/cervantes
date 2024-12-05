@@ -1,0 +1,778 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cervantes.Web
+build_property.RootNamespace = Cervantes.Web
+build_property.ProjectDir = /Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/AccessDenied.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0FjY2Vzc0RlbmllZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/ExternalLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0V4dGVybmFsTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/LoginWith2fa.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0xvZ2luV2l0aDJmYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/LoginWithRecoveryCode.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL0xvZ2luV2l0aFJlY292ZXJ5Q29kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/Manage/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL01hbmFnZS9JbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/Manage/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL01hbmFnZS9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Pages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1BhZ2VzL19JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/AccountLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9BY2NvdW50TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/ExternalLoginPicker.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9FeHRlcm5hbExvZ2luUGlja2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/ManageLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9NYW5hZ2VMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/ManageNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9NYW5hZ2VOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9SZWRpcmVjdFRvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/ShowRecoveryCodes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9TaG93UmVjb3ZlcnlDb2Rlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Account/Shared/StatusMessage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BY2NvdW50L1NoYXJlZC9TdGF0dXNNZXNzYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/CultureSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvQ3VsdHVyZVNlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTG9naW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/ThemeSwitch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvVGhlbWVTd2l0Y2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/UserMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvVXNlck1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Backup/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9CYWNrdXAvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Backup/RestoreAttachments.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9CYWNrdXAvUmVzdG9yZUF0dGFjaG1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Backup/RestoreData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9CYWNrdXAvUmVzdG9yZURhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Logs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Mb2dzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Organization.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Pcmdhbml6YXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/CreateReport.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0NyZWF0ZVJlcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/CreateReportComponentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0NyZWF0ZVJlcG9ydENvbXBvbmVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/DeleteReportBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0RlbGV0ZVJlcG9ydEJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/DeleteReportComponentBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0RlbGV0ZVJlcG9ydENvbXBvbmVudEJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/DeleteReportComponentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0RlbGV0ZVJlcG9ydENvbXBvbmVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/DeleteReportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0RlbGV0ZVJlcG9ydERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/EditDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0VkaXREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/ImportReport.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL0ltcG9ydFJlcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/ReportComponents.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL1JlcG9ydENvbXBvbmVudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/ReportComponentsDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL1JlcG9ydENvbXBvbmVudHNEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/ReportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL1JlcG9ydERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Reports/Reports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9SZXBvcnRzL1JlcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/CreateRole 2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9DcmVhdGVSb2xlIDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/CreateRole.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9DcmVhdGVSb2xlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/DeleteRoleBulkDialog 2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9EZWxldGVSb2xlQnVsa0RpYWxvZyAyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/DeleteRoleBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9EZWxldGVSb2xlQnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/DeleteRoleDialog 2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9EZWxldGVSb2xlRGlhbG9nIDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/DeleteRoleDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9EZWxldGVSb2xlRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/RoleDialog 2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9Sb2xlRGlhbG9nIDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/RoleDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9Sb2xlRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/Roles 2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9Sb2xlcyAyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Roles/Roles.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Sb2xlcy9Sb2xlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Users/CreateUserDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc2Vycy9DcmVhdGVVc2VyRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Users/DeleteUserDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc2Vycy9EZWxldGVVc2VyRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Users/DeleteUsersBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc2Vycy9EZWxldGVVc2Vyc0J1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Users/UserDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc2Vycy9Vc2VyRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Admin/Users/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc2Vycy9Vc2Vycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Calendar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DYWxlbmRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Clients/ClientDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DbGllbnRzL0NsaWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Clients/Clients.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DbGllbnRzL0NsaWVudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Clients/CreateClientDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DbGllbnRzL0NyZWF0ZUNsaWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Clients/DeleteClientBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DbGllbnRzL0RlbGV0ZUNsaWVudEJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Clients/DeleteClientDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DbGllbnRzL0RlbGV0ZUNsaWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Documents/DocumentCreateDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Eb2N1bWVudHMvRG9jdW1lbnRDcmVhdGVEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Documents/DocumentDeleteBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Eb2N1bWVudHMvRG9jdW1lbnREZWxldGVCdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Documents/DocumentDeleteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Eb2N1bWVudHMvRG9jdW1lbnREZWxldGVEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Documents/DocumentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Eb2N1bWVudHMvRG9jdW1lbnREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Documents/Documents.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Eb2N1bWVudHMvRG9jdW1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Jira/Jira.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9KaXJhL0ppcmEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Jira/JiraDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9KaXJhL0ppcmFEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/CreateKnowledgeCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0NyZWF0ZUtub3dsZWRnZUNhdGVnb3J5RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/CreateKnowledgePageDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0NyZWF0ZUtub3dsZWRnZVBhZ2VEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/DeleteKnowledgeCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0RlbGV0ZUtub3dsZWRnZUNhdGVnb3J5RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/DeleteKnowledgePageDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0RlbGV0ZUtub3dsZWRnZVBhZ2VEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/EditKnowledgeCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0VkaXRLbm93bGVkZ2VDYXRlZ29yeURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/KnowledgeBase.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0tub3dsZWRnZUJhc2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/KnowledgeBase/KnowledgeCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Lbm93bGVkZ2VCYXNlL0tub3dsZWRnZUNhdGVnb3J5RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Note/CreateNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RlL0NyZWF0ZU5vdGVEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Note/DeleteNoteBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RlL0RlbGV0ZU5vdGVCdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Note/DeleteNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RlL0RlbGV0ZU5vdGVEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Note/NoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RlL05vdGVEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Note/Notes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RlL05vdGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/AddMembersProjectDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9BZGRNZW1iZXJzUHJvamVjdERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/AddProjectAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9BZGRQcm9qZWN0QXR0YWNobWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/AddTargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9BZGRUYXJnZXREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/CreateProjectDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9DcmVhdGVQcm9qZWN0RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/CreateProjectNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9DcmVhdGVQcm9qZWN0Tm90ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/CreateReportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9DcmVhdGVSZXBvcnREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVBdHRhY2htZW50RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectAttachment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0QXR0YWNobWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectAttachmentBulk.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0QXR0YWNobWVudEJ1bGsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0QnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectMemberBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0TWVtYmVyQnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectMemberDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0TWVtYmVyRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectNoteBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0Tm90ZUJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteProjectNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVQcm9qZWN0Tm90ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteReportBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVSZXBvcnRCdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteReportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVSZXBvcnREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DeleteTargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9EZWxldGVUYXJnZXREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/DownloadReportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9Eb3dubG9hZFJlcG9ydERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/ExecutiveAiDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9FeGVjdXRpdmVBaURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/ProjectAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9Qcm9qZWN0QXR0YWNobWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/ProjectDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9Qcm9qZWN0RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/ProjectNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9Qcm9qZWN0Tm90ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9Qcm9qZWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/ProjectTemplates.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9Qcm9qZWN0VGVtcGxhdGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Projects/ReportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcm9qZWN0cy9SZXBvcnREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/AddTaskAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9BZGRUYXNrQXR0YWNobWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/AddTaskNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9BZGRUYXNrTm90ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/AddTaskTargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9BZGRUYXNrVGFyZ2V0RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/CreateTaskDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9DcmVhdGVUYXNrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskAttachmentBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrQXR0YWNobWVudEJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrQXR0YWNobWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrQnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskNoteBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrTm90ZUJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrTm90ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskTargetBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrVGFyZ2V0QnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/DeleteTaskTargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9EZWxldGVUYXNrVGFyZ2V0RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/TaskAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9UYXNrQXR0YWNobWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/TaskDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9UYXNrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/TaskNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9UYXNrTm90ZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9UYXNrcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Tasks/TasksKanban.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy9UYXNrc0thbmJhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/AddVulnAttachment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0FkZFZ1bG5BdHRhY2htZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/AddVulnNote.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0FkZFZ1bG5Ob3RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/AddVulnTarget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0FkZFZ1bG5UYXJnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/AiDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0FpRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/CreateVulnCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0NyZWF0ZVZ1bG5DYXRlZ29yeURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/CreateVulnDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0NyZWF0ZVZ1bG5EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnAttachment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5BdHRhY2htZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnAttachmentBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5BdHRhY2htZW50QnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5CdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnCategoryBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5DYXRlZ29yeUJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5DYXRlZ29yeURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnNote.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5Ob3RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnNoteBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5Ob3RlQnVsa0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnTarget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5UYXJnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/DeleteVulnTargetBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0RlbGV0ZVZ1bG5UYXJnZXRCdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/ImportVulnDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL0ltcG9ydFZ1bG5EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/VulnAttachmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5BdHRhY2htZW50RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/VulnCategories.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5DYXRlZ29yaWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/VulnCategoryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5DYXRlZ29yeURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/VulnDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/VulnNoteDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5Ob3RlRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/Vulns.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Vuln/VulnsTemplates.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9WdWxuL1Z1bG5zVGVtcGxhdGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/Checklists.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L0NoZWNrbGlzdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/CreateChecklistDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L0NyZWF0ZUNoZWNrbGlzdERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/CreateReportChecklistDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L0NyZWF0ZVJlcG9ydENoZWNrbGlzdERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/DeleteChecklistBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L0RlbGV0ZUNoZWNrbGlzdEJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/DeleteChecklistDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L0RlbGV0ZUNoZWNrbGlzdERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/MastgDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L01hc3RnRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Checklist/WstgDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvQ2hlY2tsaXN0L1dzdGdEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Project/WorkspaceProject.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvUHJvamVjdC9Xb3Jrc3BhY2VQcm9qZWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/CreateTargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0NyZWF0ZVRhcmdldERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/CreateTargetServiceDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0NyZWF0ZVRhcmdldFNlcnZpY2VEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/DeleteTargetBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0RlbGV0ZVRhcmdldEJ1bGtEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/DeleteTargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0RlbGV0ZVRhcmdldERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/DeleteTargetServiceBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0RlbGV0ZVRhcmdldFNlcnZpY2VCdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/DeleteTargetServiceDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0RlbGV0ZVRhcmdldFNlcnZpY2VEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/ImportDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L0ltcG9ydERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/TargetDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L1RhcmdldERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/Targets.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L1RhcmdldHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Target/TargetServiceDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFyZ2V0L1RhcmdldFNlcnZpY2VEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Tasks/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVGFza3MvVGFza3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Vault/CreateVaultDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVmF1bHQvQ3JlYXRlVmF1bHREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Vault/DeleteVaultBulkDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVmF1bHQvRGVsZXRlVmF1bHRCdWxrRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Vault/DeleteVaultDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVmF1bHQvRGVsZXRlVmF1bHREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Vault/VaultDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVmF1bHQvVmF1bHREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Vault/Vaults.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVmF1bHQvVmF1bHRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/Vulns/WorkspaceVulns.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvVnVsbnMvV29ya3NwYWNlVnVsbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspace/WorkspaceIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2UvV29ya3NwYWNlSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Pages/Workspaces.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Xb3Jrc3BhY2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/AiDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvQWlEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/CVSSCalculator.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvQ1ZTU0NhbGN1bGF0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/MitreAttack.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvTWl0cmVBdHRhY2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/MultiSelectAutoComplete.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvTXVsdGlTZWxlY3RBdXRvQ29tcGxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/MultiSelectAutoCompleteGuid.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvTXVsdGlTZWxlY3RBdXRvQ29tcGxldGVHdWlkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/NoRolePermissions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvTm9Sb2xlUGVybWlzc2lvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/OWASPRiskCalculator.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvT1dBU1BSaXNrQ2FsY3VsYXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/RedirectClient.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvUmVkaXJlY3RDbGllbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TaGFyZWQvUmVkaXJlY3RUb0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-huc3ll8xyn
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ah7ounaghf
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/WorkspaceLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvV29ya3NwYWNlTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-lqa5sfmhdv
+
+[/Users/jamespro/Documents/GitHub/cervantes/Cervantes.Web/Components/Layout/WorkspaceNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvV29ya3NwYWNlTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tcasbxthxx
